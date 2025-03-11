@@ -1,0 +1,2 @@
+The script.sh builds the container, using the certificates etc provided by the generate_certificate.sh file
+In real world use, provide the certificates, naming them "nginx.key/nginx.csr/nginx.crt"
